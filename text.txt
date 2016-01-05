@@ -1,1 +1,1 @@
-Hello Git World
+Hello Gittings World. It is not so hard.
